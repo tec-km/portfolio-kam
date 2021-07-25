@@ -4,16 +4,35 @@
 
 
 .ue{
-  border: 1px solid black;
- }
+  width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: center
+  
+}
 
 .naka{
   border: 1px solid black;
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: center
 }
 
 
 
 .shita{
   border: 1px solid black;
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: center
+}
 
+
+.waku{
+  border: 1px solid black;
+  height: 100%;
+  width: 30%;
+  
 }
