@@ -12,7 +12,7 @@
 }
 
 .naka{
-  border: 1px solid black;
+
   height: 300px;
   width: 100%;
   display: flex;
@@ -22,7 +22,7 @@
 
 
 .shita{
-  border: 1px solid black;
+ 
   height: 300px;
   width: 100%;
   display: flex;
